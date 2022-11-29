@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tugas7</string>
+    <string name="deskripsi_smartphone">deskripsi_smartphone</string>
+    <string name="details">details</string>
+    <string name="price">price</string>
+    <string name="Harga_smartphone">Harga_smartphone</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+</resources>
